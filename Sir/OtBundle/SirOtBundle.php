@@ -6,4 +6,7 @@ use Symfony\Component\HttpKernel\Bundle\Bundle;
 
 class SirOtBundle extends Bundle
 {
+	public function __construct()
+	{
+	}
 }
